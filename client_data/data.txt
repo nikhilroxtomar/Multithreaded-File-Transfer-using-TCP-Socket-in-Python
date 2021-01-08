@@ -1,0 +1,2 @@
+A simple text file that need to send across the network to the server.
+Thank you.
